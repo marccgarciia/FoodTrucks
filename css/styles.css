@@ -179,6 +179,8 @@ footer {
           footer .copyright-text,
           footer .social-icons {
             text-align: center;
+            display: flex;
+            justify-content: center
           }
     }
     
